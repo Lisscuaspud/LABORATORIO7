@@ -8,6 +8,18 @@
 
 **4.MATERIALES**
 
+-Fuente DC.
+
+-Osciloscopio.
+
+-Protoboard
+
+-Multímetro
+
+-Cables conductores
+
+-Resistencias, bobinas y capacitores.
+
 **5.PROCEDIMIENTO EN LA FIGURA 1**
 
 Construya en el protoboard el circuito mostrado en la Figura 1.
