@@ -109,6 +109,8 @@ Cuando se tiene un voltaje este se refiere a una medida de su efectividad al tra
 
 **9.VIDEO**
 
+- https://youtu.be/OrHRFY7ZBNg
+
 **10.CONCLUSIONES**
 
 -La corriente en un circuito con bobinas tiene valores extremadamente grandes eso se debe a que las bobinas aprovechan el paso de la corriente para generar un campomagnetico de gran cantidad de voltaje y con poca resistencia provicando que la corriente del circuito tome valores exageradamente grandes.
