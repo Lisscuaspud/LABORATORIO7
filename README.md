@@ -72,6 +72,11 @@ Construya el circuito mostrado en la Figura 2.
 
 - Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias  utilizadas.
 
+![Tabla Voltajes](https://user-images.githubusercontent.com/84397282/131299385-aa83633b-d931-4427-8c08-637a47df3ef1.jpg)
+
+El valor pico que nos muestra el osciloscopio cuando lo multiplicamos por 0.707 nos muestra un valor muy semejante al que el multimetro nos marca, lamentablemente el calculo de error de esta varienza del multimetro con el osciloscopio puede llegarse a complicar, como los valores dependen del tiempo es dificil establecer un intervalo de tiempo en el cual calcular el error puesto que los valores de cada una de las mediciones varian muy rapido y constantemente.
+
+![Tabla Corrientes](https://user-images.githubusercontent.com/84397282/131299387-e759c59c-4d3b-4120-998c-4a277b73c292.jpg)
 
 
 **8.PREGUNTAS**
