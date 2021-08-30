@@ -67,20 +67,26 @@ Construya el circuito mostrado en la Figura 2.
 - Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias  utilizadas.
 
 
+
 **8.PREGUNTAS**
 
 - ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 
-Una bobina en corriente continua se comporta como un cortocircuito (conductor ideal), ya que no varía con el tiempo y el condensador se comporta prácticamente como uno ideal, es decir, como un circuito abierto, y este no permite el paso de corriente
+Una bobina en corriente continua se comporta como un cortocircuito (conductor ideal), ya que no varía con el tiempo y el condensador se comporta prácticamente como uno ideal, es decir, como un circuito abierto, y este no permite el paso de corriente.
+
+El Capacitor para señales continuas se comporta como un corto circuito al igual que la bobina o inductor, esta propiedad lo convierte en dispositivos muy útiles cuando se debe impedir que la corriente continua entre a determinada parte de un circuito eléctrico
 
 
 - ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 En corriente alterna, una bobina ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de reactancia inductiva y el condensador se carga y descarga tantas veces como varíe la tensión. Esto provoca que cuando la tensión aumenta hace circular la corriente en un sentido, pero la corriente que libera el condensador no siempre va seguir ese sentido .
 
+El capacitor en una circuito con corriente alterna se comporta como un conductor esta propiedad lo convierte en dispositivos muy útiles cuando se requiere que solo pase corriente alterna a una parte del circuito
+
 - ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores  distintos?
 
+En el caso de las bobinas dependera del valor de sus valores en weber la corriente puede tomar una varianza al igual que el voltaje Vo de salida, mientras que con el condensador la resistencia no sufrira cambios ni tampoco la corriente pero el voltaje de salida Vp se vera afectado pues la capacitancia se sumara dejando libre paso a la corriente.
 
 
 - ¿Qué son los valores eficaces de voltaje y corriente?
@@ -94,7 +100,7 @@ Cuando se tiene un voltaje este se refiere a una medida de su efectividad al tra
 
 **10.CONCLUSIONES**
 
--
+-La corriente en un circuito con bobinas tiene valores extremadamente grandes eso se debe a que las bobinas aprovechan el paso de la corriente para generar un campomagnetico de gran cantidad de voltaje y con poca resistencia provicando que la corriente del circuito tome valores exageradamente grandes.
 
 - Al hacer el uso del osciloscopio, se pudo notar que se usan para mediciones en el dominio del tiempo como la forma de onda, el periodo entre otras cosas. los valores se leen en una pantalla con escalas. Los osciloscopios miden voltaje y en este caso determinamos el voltaje pico de las ondas. Si se quisiera poder medir corriente, se tendría que recurrir a un convertidor corriente en voltaje.
 
