@@ -38,9 +38,7 @@ Construya en el protoboard el circuito mostrado en la Figura 1.
 
 - Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000. Anote los resultados.
 
-
-
-
+![](https://user-images.githubusercontent.com/84998013/131282241-30961029-ddfe-449d-a361-63e184500a98.png)
 
 **6.PROCEDIMIENTO EN LA FIGURA 2**
 
@@ -48,7 +46,6 @@ Construya el circuito mostrado en la Figura 2.
 
 - Realice las mismas mediciones de los ítems del numeral anterior y presente los  resultados.
 
-![](https://user-images.githubusercontent.com/84998013/131282241-30961029-ddfe-449d-a361-63e184500a98.png)
 
 **7.ANÁLISIS DE LOS RESULTADOS**
 
