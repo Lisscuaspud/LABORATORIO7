@@ -16,6 +16,11 @@ Realizar los circuitos de la figura 1 y 2, utilizar el osciloscopio para observa
 
 **3. MARCO TEÓRICO**
 
+
+
+![Laboratorio marco](https://user-images.githubusercontent.com/84397282/131290279-f2485822-5c13-4485-8aa6-f89f76c74d30.jpg)
+
+
 **4.MATERIALES**
 
 -Fuente DC.
