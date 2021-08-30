@@ -2,6 +2,8 @@
 
 **1.OBJETIVOS GENERALES**
 
+Realizar los circuitos de la figura 1 y 2, utilizar el osciloscopio para observar la señal grafica del voltaje y corriente variando la frecuencia. Y en base a eso responder las preguntas planteadas y hacer una tabla con los valores obtenidos. 
+
 **2.OBJETIVOS ESPECÍFICOS**
 
 -Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
