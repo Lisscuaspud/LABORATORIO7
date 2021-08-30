@@ -4,6 +4,14 @@
 
 **2.OBJETIVOS ESPECÍFICOS**
 
+-Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+
+-Examinar el comportamiento de la bobina y el capacitor en circuitos AC
+
+-Revisar las combinaciones serie y paralelo de bobinas y capacitores.
+
+-Comprender el uso de instrumentos de medida en cada situación.
+
 **3. MARCO TEÓRICO**
 
 **4.MATERIALES**
