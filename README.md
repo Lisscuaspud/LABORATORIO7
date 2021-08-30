@@ -60,6 +60,12 @@ Construya en el protoboard el circuito mostrado en la Figura 1.
 Construya el circuito mostrado en la Figura 2.
 
 - Realice las mismas mediciones de los ítems del numeral anterior y presente los  resultados.
+![med 1](https://user-images.githubusercontent.com/84397282/131299177-bf43cc6d-e352-4f65-9c81-9006370929d6.jpg)
+![med 2](https://user-images.githubusercontent.com/84397282/131299179-e4fed2e9-166a-49c0-85ab-68128c9a9e65.jpg)
+![med 3](https://user-images.githubusercontent.com/84397282/131299181-8c831d8b-260e-4e51-a5a7-6f9b12e5b17e.jpg)
+![med 4](https://user-images.githubusercontent.com/84397282/131299183-b0da6ece-6cfd-4fbe-b7e4-64d46baf8214.jpg)
+![med 5](https://user-images.githubusercontent.com/84397282/131299184-1acf9e28-f8bf-4af9-bf87-66b2441d430f.jpg)
+![med 6](https://user-images.githubusercontent.com/84397282/131299185-38d1895a-8470-4800-bab6-6ceb3d61a580.jpg)
 
 
 **7.ANÁLISIS DE LOS RESULTADOS**
